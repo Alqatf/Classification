@@ -1,10 +1,11 @@
-# Classification
-### Classification using Support Vector Machines, K Nearest Neighbors, Feedforward Neural Networks
+## Classification: Support Vector Machines, K Nearest Neighbors, Feedforward Neural Networks
 
-The Classificationg_Methods,Results.pdf explores three well-known supervised learning classifiers and their ability to correctly classify new samples from different data sets. 
-The classifiers used were K-Nearest Neighbors (KNN), Support Vector Machines (SVM) (using LIBSVM), and Artificial Neural Networks (ANN), the matlab files for each classifier and for splitting and shuffling the data are included.
+The Classification_Methods,Results.pdf explores three well-known supervised learning classifiers and their performance on data sets with different attributes. The MATLAB files for each classifier and for preprocessing the data are included.
 
-Data:
+#####LIBSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+
+#####Data:
 ######Diabetic Retinopathy Data Set, http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set# 
 Balint Antal, Andras Hajdu: An ensemble-based system for automatic screening of diabetic retinopathy, Knowledge-Based Systems 60 (April 			2014), 20-27. 
 The  data set is based on features extracted from the Messidor image data set.
